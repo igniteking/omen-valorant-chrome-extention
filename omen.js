@@ -1,6 +1,6 @@
 // Create an image element
 const image = new Image();
-image.src = ("omen.gif"); // Ensure the image file name and path are correct
+image.src = ("https://github.com/igniteking/omen-valorant-chrome-extention/blob/main/omen.gif?raw=true"); // Ensure the image file name and path are correct
 image.id = "omen-bottom-left-image";
 image.alt = "Bottom Left Image";
 
